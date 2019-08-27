@@ -1,0 +1,10 @@
+{
+    "name": "q3vl/phalcon-sceleton",
+    "authors": [
+        {
+            "name": "Vlad",
+            "email": "q3vl@mail.ru"
+        }
+    ],
+    "require": {}
+}
